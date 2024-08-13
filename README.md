@@ -59,3 +59,12 @@ This project focuses on the classification of bird species using deep learning m
 - Training Accuracy: 100.00%
 - Validation Accuracy: 97.45%
 - Testing Accuracy: 96.58%
+
+# Conclusion
+This project successfully demonstrates the effectiveness of deep learning models in bird species classification across different domains. While ResNet18, VGG16, and MobileNetV2 achieved high accuracy and robust performance metrics, further exploration with Vision Transformers is encouraged to push the boundaries of domain-specific adaptation.
+
+# Future Work
+- Fine-tune hyperparameters to further improve model performance.
+- Experiment with different architectures or ensemble models.
+- Augment the dataset with additional bird species for more comprehensive training.
+- Deploy the model in real-world applications for wildlife research and conservation efforts.
